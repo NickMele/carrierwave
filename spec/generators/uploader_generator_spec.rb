@@ -1,3 +1,4 @@
+require 'minitest'
 require 'spec_helper'
 require 'generator_spec'
 require 'generators/uploader_generator'
